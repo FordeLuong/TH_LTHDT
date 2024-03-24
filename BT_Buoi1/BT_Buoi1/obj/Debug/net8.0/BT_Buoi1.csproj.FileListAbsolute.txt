@@ -1,0 +1,14 @@
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\bin\Debug\net8.0\BT_Buoi1.exe
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\bin\Debug\net8.0\BT_Buoi1.deps.json
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\bin\Debug\net8.0\BT_Buoi1.runtimeconfig.json
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\bin\Debug\net8.0\BT_Buoi1.dll
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\bin\Debug\net8.0\BT_Buoi1.pdb
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.AssemblyInfoInputs.cache
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.AssemblyInfo.cs
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.csproj.CoreCompileInputs.cache
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.dll
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\refint\BT_Buoi1.dll
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.pdb
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\BT_Buoi1.genruntimeconfig.cache
+D:\hufi\hdt\BT_Buoi1\BT_Buoi1\obj\Debug\net8.0\ref\BT_Buoi1.dll
